@@ -2,3 +2,6 @@
   "name": "Ubuntu 24.04",
   "image": "mcr.microsoft.com/devcontainers/base:ubuntu-24.04"
 }
+git add .devcontainer/devcontainer.json
+git commit -m "Set devcontainer to use Ubuntu latest"
+git push
